@@ -29,6 +29,7 @@ while True:
     if play_again.lower() != 'да':
         print('До свидания : ✖◕‿◕✖')
         break
+print("by Asylbekov Arstan")
 
 
 
